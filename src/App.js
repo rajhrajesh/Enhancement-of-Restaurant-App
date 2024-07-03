@@ -11,7 +11,6 @@ import CartContext from './context/CartContext'
 
 import './App.css'
 
-// write your code here
 const App = () => {
   const [cartList, setCartList] = useState([])
   const [restaurantName, setRestaurantName] = useState('')
